@@ -615,7 +615,7 @@ class MyHomePage extends StatelessWidget {
                                           : Column(
                                               children: [
                                                 Image.asset(
-                                                  'lib/assets/Compozit.jpg',
+                                                  'lib/assets/compozit.jpg',
                                                   width: imageSize,
                                                   height: imageSize,
                                                 ),
